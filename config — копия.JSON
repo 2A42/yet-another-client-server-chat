@@ -1,0 +1,10 @@
+{
+  "IP": "127.0.0.1",
+  "MYPORT": "5555",
+  "NGINX_PORT": "9999",
+  "IN_FILE": "output.tsv",
+  "OUT_FILE": "outputTSV.tsv",
+  "R_USER": "your_user",
+  "R_PASS": "your_pass",
+  "R_PORT": "your_port"
+}
